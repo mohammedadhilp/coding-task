@@ -8,6 +8,7 @@ Homepage Navigation
 The homepage of this application provides the following navigation options:
 
 Add Product: Navigate to /new-product to add a new product.
+
 Show Products: Navigate to /products to view all products, with filters available as per project requirements.
 
 ## Tech Stack
