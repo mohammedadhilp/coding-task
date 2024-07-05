@@ -15,7 +15,7 @@ Show Products: Navigate to /products to view all products, with filters availabl
 
 ## Tech Stack
 
-**Client & server: Remix.js, React, Multer
+**Client & server: Remix.js, Multer
 
 Database: MongoDB
 
